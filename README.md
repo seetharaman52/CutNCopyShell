@@ -1,4 +1,4 @@
-# CutNCopyShell
+## CutNCopyShell
 
 CutNCopyShell is a shell script for cutting and joining video clips using ffmpeg.
 
@@ -18,3 +18,7 @@ CutNCopyShell is a shell script for cutting and joining video clips using ffmpeg
    ```bash
    git clone https://github.com/your-username/CutNCopyShell.git
    cd CutNCopyShell
+
+## Note
+
+- The script is designed to preserve the original video quality by not re-encoding the output. If you have specific encoding requirements, feel free to modify the script to suit your needs.
