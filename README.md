@@ -18,6 +18,8 @@ CutNCopyShell is a shell script for cutting and joining video clips using ffmpeg
    ```bash
    git clone https://github.com/your-username/CutNCopyShell.git
    cd CutNCopyShell
+   sudo bash install.sh
+   filmux
 
 ## Note
 
